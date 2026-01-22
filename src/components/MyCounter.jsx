@@ -7,6 +7,11 @@ function Counter() {
         setCounter(count + 1)
     }
 
+    //Кажуть тепер модно використовувати стрілочну ф-цію
+    // const handleChange = () => {
+    //     setCounter(count + 1)
+    // }
+
     //Дизайн згенерований нейронкою gemini 3 pro
     return (
         // 1. Фон: Глибокий темно-зелений градієнт (майже чорний по кутах)
